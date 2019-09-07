@@ -1,1 +1,49 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=fa621c6b0bb5a9712eeaa7423747132d55516490vZb9bptIEMD/TqS8wxyygl0R8FedXqP0RB3cuMYQGXy+yrXQGtbx1sAidt3EtSLds9yj3ZPcArGd5HKtczqdhczu7Pxm54MdwGlKUy/FCU05ia/L1crZ0SH25xSkz7H0/LjaaIwb9bNa9Ofvf2yvMfRpQGarBWIEpit4C/1UddPG15+qMUweav7dVrOwBcWvR2OOFnCDhI3qm8ab05+rtdNaq5Uv/pB3MYrEXxotbwXvGoP+8Ddwbdt0TroX+/Lt1RSnIPj3SIRSzPpoRtDz/NNc/D/XPjUpIgd96Npmt2dAR28b7227JwL955o8a3f8KFU7+WQn7+vOsKdbYs+eYYH1Sd+DPn8nspztV+J0geNznpKoPLvGnJUd96JrKVCr1puVyn/n3cdh39QvIUvHi/wLSUT49/wroWhKQm8hHl8cwznMSIg9oen5uUQQ0pzzhL3VtOsUJXN1hnw8pXSh+jTSvtbVmhZhbU4j/MuM4DBg5yRQZimNFL5KsBJhxtA1Pi78WBf+3B0j3xcLXpG9dZHFOyn350uAfRpg4coXRmOvmJUfuanwdIkzZU1LUhJzLy1vsEw6oylG/hy2wrEcII7kCSAGpQVegchPKRNVYH10eJAPPRKILfPhWCaBPDkDTYNsCiTYKsUowju1LEx5MpYz6T2Q4IiEZAGMI75kW46Th5wv/OM4yKX33A1a8OVTKsEMxTvsPpeCEJG/gmgZIgJiMwyvtIxZpqFQ/mG51pt477QMZtlzclDyCzq7eSQmvJxlMmstuYRhThNezrUUaA8Hpn3leuKmQLbtHrpt27KMtut2+4Y9dJV6dR/7jjHQPxiWq4Dcp99IGCLttVqF8ojEAb1hYLnQUutnMLJHrWYF9CQJ8QhPe4RrrxunaqMG5d6l2xde5mn6gP0FrUB7LuqGtXpLraq1Zq2qtprgoBlKyT0l7xWP3esaiuyL3BKs8lu+P9Xpmv+S/KgPXgpe2Y7b6RrmhaNIzx674wjzOQ3OE8q4tIdBxzG9X41Bt/PpUphWoLEHc2noF8ZAgX2qPjDc4cByB7rldDLGHQyNF7l1ZWRYRzed73AbrGObpj0y7bbudm1r21kyqJRitgz55lTgW+wX8BMF9rRXFeJHtnILfkgZfmyCzDbqbCyzZV4feVJZF6sHxRtj7BQLk5N3IKlsOWU8//oJxdkuP2gViqSqqqTUWhVVghOhumtaqvQ5LV5Cmd27o8O7vwA=
+<?php
+error_reporting(0);
+echo "\n";
+echo "\n";
+echo "\033[32;1m••••[ Modifykasi by : Mr.Tr3v!0n ]••••\n";
+echo "\033[34;1m•       Kontak wa : 083879017166     •\n";
+echo "\033[34;1m•     Team Termux : TERMUX TOOLS-ID  •\n";
+echo "\033[34;1m•     Team Cyber  : Baby Cyber Mafia •\n";
+echo "\033[32;1m••••••••••••••••••••••••••••••••••••••\n";
+echo "\033[32;1m••••[  TOOLS AUTOLIKE FACEBOOK   ]••••\n";
+echo "\n";
+echo "\033[32;1m[\033[34;1m•\033[32;1m]\033[34;1mMASUKAN TOKEN NYA\033[32;1m[\033[34;1m•\033[32;1m]=> : ";
+$token = trim(fgets(STDIN, 1024));
+echo "\n";
+echo "\033[32;1m[\033[34;1m•\033[32;1m]\033[34;1mMASUKAN JUMLAH LIKE\033[32;1m[\033[34;1m•\033[32;1m]=> : ";
+$limit        = trim(fgets(STDIN, 1024));
+$ambil_konten = file_get_contents("https://graph.facebook.com/v2.1/me/home?fields=id,from,type,message&limit={$limit}&access_token={$token}");
+$jdecode      = json_decode($ambil_konten,true);
+
+foreach ($jdecode['data'] as $key => $data) {
+	$data_id    = $data['id']; // data id
+	$data_name  = $data['from']['name']; // pemilik status
+	$data_time  = $data['created_time']; // waktu status
+	$data_pesan = $data['message'];
+	$url        = "https://graph.facebook.com/v2.1/{$data_id}/likes";
+	$curl       = curl_init();
+
+    curl_setopt($curl, CURLOPT_URL, $url);
+    curl_setopt($curl, CURLOPT_CONNECTTIMEOUT,20);
+    curl_setopt($curl, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31');
+    curl_setopt($curl, CURLOPT_COOKIE,'cookie.txt');
+    curl_setopt($curl, CURLOPT_COOKIEFILE,'cookie.txt');
+    curl_setopt($curl, CURLOPT_COOKIEJAR,'cookie.txt');
+    curl_setopt($curl, CURLOPT_POSTFIELDS,"access_token={$token}&method=post");
+    curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, 3);
+    curl_setopt($curl, CURLOPT_HEADER, 0);
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, TRUE);
+    curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($curl,CURLOPT_FOLLOWLOCATION,true);
+
+    $result  = curl_exec($curl);
+    $results = json_decode($result,true);
+    curl_close($curl);
+
+    if ($results['success']) {
+    	echo "[Success]-> ".substr_replace($data_pesan,"...",16)." - ".$data_name."\r\n";
+    }
+}
+?>
